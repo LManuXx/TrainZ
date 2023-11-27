@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Flexiones de Pecho",
+      "description": "Ejercicio para fortalecer el pecho y los tríceps.",
+      "repetitions": 10,
+      "series": 3,
+      "muscle": "Pecho"
+    },
+    {
+      "id": 2,
+      "name": "Sentadillas",
+      "description": "Ejercicio para fortalecer las piernas y glúteos.",
+      "repetitions": 10,
+      "series": 3,
+      "muscle": "Piernas"
+    },
+    {
+      "id": 3,
+      "name": "Plancha Abdominal",
+      "description": "Ejercicio para fortalecer los abdominales y el core.",
+      "repetitions": 10,
+      "series": 3,
+      "muscle": "Abdominales"
+    },
+    {
+      "id": 4,
+      "name": "Fondos en Paralelas",
+      "description": "Ejercicio para trabajar tríceps y parte superior del cuerpo.",
+      "repetitions": 10,
+      "series": 3,
+      "muscle": "Tríceps"
+    },
+    {
+      "id": 5,
+      "name": "Zancadas",
+      "description": "Ejercicio para fortalecer piernas y glúteos.",
+      "repetitions": 10,
+      "series": 3,
+      "muscle": "Piernas"
+    },
+    {
+      "id": 6,
+      "name": "Abdominales Rusos",
+      "description": "Ejercicio para trabajar los oblicuos y abdominales.",
+      "repetitions": 10,
+      "series": 3,
+      "muscle": "Abdominales"
+    },
+    {
+      "id": 7,
+      "name": "Pull-Ups",
+      "description": "Ejercicio para fortalecer la espalda y los brazos.",
+      "repetitions": 10,
+      "series": 3,
+      "muscle": "Espalda"
+    },
+    {
+      "id": 8,
+      "name": "Burpees",
+      "description": "Ejercicio completo que involucra todo el cuerpo.",
+      "repetitions": 10,
+      "series": 3,
+      "muscle": "Cardio"
+    },
+    {
+      "id": 9,
+      "name": "Mountain Climbers",
+      "description": "Ejercicio cardiovascular que trabaja todo el cuerpo.",
+      "repetitions": 10,
+      "series": 3,
+      "muscle": "Cardio"
+    },
+    {
+      "id": 10,
+      "name": "Press de Hombros",
+      "description": "Ejercicio para fortalecer los hombros y tríceps.",
+      "repetitions": 10,
+      "series": 3,
+      "muscle": "Hombros"
+    }
+  ]
+  
